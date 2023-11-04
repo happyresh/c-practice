@@ -11,7 +11,7 @@ int main() {
     float TOTAL_SECONDS, SPEED_FPS, SPEED_MPS;
 
     // Input for the program Penn Relays
-    printf("Enter the race time for the runner to complete the race (minutes seconds): ");
+    printf("Enter the race time for the runner to complete the race (minutes & seconds): ");
     scanf("%d %f", &MINUTES, &SECONDS);
 
     // Formula of the program
