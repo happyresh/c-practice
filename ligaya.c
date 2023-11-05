@@ -8,7 +8,7 @@ int main(){
 
     if (strcmp(NAME_OF_LOVER,"Kristine Joy Sarzuelo")==0)
     {
-        printf("You are Recio's lover mwehehe");
+        printf("You are Recio's lover mweheheheheheheheheh");
     }
     else
     {
