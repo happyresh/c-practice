@@ -21,7 +21,7 @@ int main() {
     // Output the calculated lifespans of the dinosaur
     printf("\nThe number of months that %s lived is %.2f months\n", DINOSAUR_NAME, MONTHS_LIVED);
     printf("\nThe number of months that %s lived is %.2f months\n", DINOSAUR_NAME, DAYS_LIVED);
-    printf("\nThe number of months that %s lived is %.2f months\n", DINOSAUR_NAME, SECOND_LIVED);
+    printf("\nThe number of months that %s lived is %.2f months\n", DINOSAUR_NAME, SECONDS_LIVED);
     printf("\n--Thank you for using our calculator!--\n");
     return 0;
 }
