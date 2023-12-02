@@ -2,14 +2,18 @@
 #include <math.h>
 
 int main() {
+    // Initialization of the program
     int SUM_OF_SQUARES, COUNTER, N, ANSWER;
 
-    do
+    do // do-while loop to try again the program
     {
-        SUM_OF_SQUARES = 0; // Initialize SUM_OF_SQUARES
+        SUM_OF_SQUARES = 0; // Initialize SUM_OF_SQUARES to avoid infinite loop in do-while loop
+
+        // Input for the program 
         printf("Please enter any positive number: ");
         scanf("%d", &N);
 
+        // for loop to get the sum of squares
         for (COUNTER = 1; COUNTER <= N; COUNTER++)
         {
             SUM_OF_SQUARES += pow(COUNTER, 2);
