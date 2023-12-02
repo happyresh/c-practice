@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int i, n, sum;
+    int i, n, sum=0;
 
     printf("Enter any positive numbers: ");
     scanf("%d", &n);
