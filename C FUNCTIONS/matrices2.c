@@ -9,13 +9,13 @@ int main() {
         int ArrayB[3][3];
         
         // Input values for ArrayA
-        printf("Enter values for ArrayA (3 integers):\n");
+        printf("Enter values for ArrayA (3 integers): ");
         for (int i = 0; i < 3; i++) {
             scanf("%d", &ArrayA[i]);
         }
         
         // Input values for ArrayB
-        printf("Enter values for ArrayB (3x3 integers):\n");
+        printf("Enter values for ArrayB (3x3 integers): ");
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
                 scanf("%d", &ArrayB[i][j]);
