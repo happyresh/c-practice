@@ -21,19 +21,19 @@ int main() {
 
     switch (operators){
          case '+': result=num1+num2;
-         printf("The sum of two numbers is: %d", result);
+         printf("\nThe sum of two numbers is: %d", result);
          break;
 
          case '-': result=num1-num2;
-         printf("The difference of two numbers is: %d", result);
+         printf("\nThe difference of two numbers is: %d", result);
          break;
 
          case '*': result=num1*num2;
-         printf("The product of two numbers is: %d", result);
+         printf("\nThe product of two numbers is: %d", result);
          break;
 
          case '/': result=num1/num2;
-         printf("The quotient of two numbers is: %d", result);
+         printf("\nThe quotient of two numbers is: %d", result);
          break;
 
     }
