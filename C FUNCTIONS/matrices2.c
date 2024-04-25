@@ -28,7 +28,7 @@ int main() {
         // Perform matrix multiplication
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
-                ArrayC[i] += ArrayA[j] * ArrayB[j][i];
+                ArrayC[i] += ArrayA[j] * ArrayB[i][j];
             }
         }
         
@@ -60,7 +60,7 @@ int main() {
         scanf(" %c", &repeat);
     }
     
-    printf("Program ended.\n");
+    printf("\nThank you for using the program.\n");
     
     return 0;
 }
