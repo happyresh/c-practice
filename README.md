@@ -34,14 +34,6 @@ Here’s an overview of the folders and files included in this repository:
 - **Objective**: Master the use of different looping structures.
 - **Key Concepts**: Nested loops, infinite loops, and control statements.
 
-## 📌 Notable Programs
-
-Some of my favorite programs that you might want to check out:
-
-- **Matrix Multiplication**: Demonstrates the multiplication of two matrices using nested loops.
-- **Factorial Using Recursion**: A classic example of how recursion works in C.
-- **Sorting Algorithms**: Implementations of bubble sort, selection sort, and insertion sort.
-
 ## 🚀 Getting Started
 
 If you wish to explore or run these programs, follow these steps:
