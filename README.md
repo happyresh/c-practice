@@ -87,7 +87,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  Made with ❤️ by [Happyresh](https://github.com/happyresh) | [Technolympics Champion](https://github.com/happyresh)
+  Made with ❤️ by [Happyresh](https://github.com/happyresh) 
 </div>
 
 ---
