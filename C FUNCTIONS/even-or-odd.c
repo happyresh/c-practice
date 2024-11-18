@@ -19,4 +19,4 @@ int main() {
     scanf("%d", &num);
 
     EvenOdd(num);
-}
+}   
